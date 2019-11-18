@@ -1,0 +1,7 @@
+Tam po prawej stronie jest zakładka Git i tam możemy sobie. kliknelismy commit, i potem cos tam i push i cos tam. CHyba wpisuje commit. Ale to ja sam.
+
+I tam tez obok tej takiej okraglej strzałęczki jest taka dziwna ikonka i możemy sobie zrobić branche.
+
+
+ale srednio sobie git radzi z merge. Wiec wchodzimy w cmd. Tzn on cos po drodze zmienil i zrobil nowe repozytorium i potem w tym cmd wpisal "git merge <to nowe repozytorium>"
+
